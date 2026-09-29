@@ -1,33 +1,15 @@
 # Scholarly Library
 
-A curated collection of academic papers, research documents, and scholarly works spanning medieval history, contemporary research, and technical references.
+A personal collection of academic papers, books, and technical references. Each folder is one subject, and every file name states its year, author, and topic so it can be understood without opening it.
 
-## Collections
+## medieval-esoteric
 
-### [Medieval Esoteric & Philosophy](./medieval-esoteric/)
-Scholarly works on medieval magic, esoteric traditions, philosophical history, and intellectual movements from antiquity through the early modern period.
+Scholarship on medieval and early modern magic, occult thought, and the philosophy that travelled between Arabic, Hebrew, Latin, and Slavic traditions. It includes a survey of magic manuscripts held in Central European libraries, a study of how Arabic astral magic reached Albert the Great, a review of a fifteenth-century Ruthenian translation of Hebrew logic texts, a history of Russian occultism, a volume of the Journal of Middle East Medievalists, and studies of amulets and of Indian ideas about time and death.
 
-- Occult and esoteric movements in Russia
-- Manuscripts of learned magic in Central European libraries
-- Medieval Arabic-influenced philosophy and Hebrew translation traditions
-- Astrological and talismanic traditions
-- Journal of Middle East Medievalists
+## louisiana-brushy-creek-impact-crater
 
-### [Brushy Creek Impact Crater Research](./brushy-creek-research/)
-Peer-reviewed conference papers investigating the suspected Pleistocene impact crater in St. Helena Parish, Louisiana. Multi-year collaborative research program spanning geophysics, petrography, and planetary science analog studies.
+Conference papers from 2018 to 2026 on the Brushy Creek Feature, a roughly 2 km circular basin in St. Helena Parish, Louisiana, that may be a meteorite impact crater under 30,000 years old. The papers cover a gravity survey, shocked quartz evidence, geophysical and petrographic investigation, and the site's value as an Earth analog for impact craters in the soft rock of Mars. File names begin with the year, so file order follows how the evidence developed.
 
-### [AI Safety & ML Research](./ai-safety-research/)
-Contemporary research on AI risk assessment, governance frameworks, and technical safety approaches.
+## technical-standards
 
-### [UAP/Anomalies Research](./uap-anomalies-research/)
-Peer-reviewed and scholarly investigations of unidentified anomalous phenomena, including environmental analysis and interdimensional hypotheses.
-
-### [Geophysics & Geology](./geophysics-geology/)
-Technical research on subsurface investigation methods, offshore engineering, and terrain analysis.
-
-### [Technical Standards & References](./technical-standards/)
-Engineering specifications, technical standards, and reference documentation.
-
----
-
-*Last updated: 2026-09-28*
+Engineering and government reference documents kept for their content as standards, currently the US Department of Defense standard practice for engineering drawings (MIL-STD-100G, 1997).
