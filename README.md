@@ -1,15 +1,15 @@
 # Scholarly Library
 
-A personal collection of academic papers, books, and technical references. Each folder is one subject, and every file name states its year, author, and topic so it can be understood without opening it.
+A general-purpose library of papers, books, journals, and reference documents. Every file name gives the year, the author, and the title, so a document can be recognised without opening it. Each section has its own README with a short summary of every document in it.
 
-## medieval-esoteric
+## Sections
 
-Scholarship on medieval and early modern magic, occult thought, and the philosophy that travelled between Arabic, Hebrew, Latin, and Slavic traditions. It includes a survey of magic manuscripts held in Central European libraries, a study of how Arabic astral magic reached Albert the Great, a review of a fifteenth-century Ruthenian translation of Hebrew logic texts, a history of Russian occultism, a volume of the Journal of Middle East Medievalists, and studies of amulets and of Indian ideas about time and death.
+**[humanities](humanities/)** (10 documents). Medieval and early modern magic, occult and esoteric movements, Arabic astral magic, ancient Indian ideas of time, and philosophy.
 
-## louisiana-brushy-creek-impact-crater
+**[earth-and-planetary-science](earth-and-planetary-science/)** (19 documents). Meteorite impact and shock metamorphism, the geology and landforms of the Louisiana and Mississippi Gulf Coast, cone penetration testing, and seismology.
 
-Conference papers from 2018 to 2026 on the Brushy Creek Feature, a roughly 2 km circular basin in St. Helena Parish, Louisiana, that may be a meteorite impact crater under 30,000 years old. The papers cover a gravity survey, shocked quartz evidence, geophysical and petrographic investigation, and the site's value as an Earth analog for impact craters in the soft rock of Mars. File names begin with the year, so file order follows how the evidence developed.
+**[computing-and-ai](computing-and-ai/)** (8 documents). Software modularity, language model behavior and control, AI risk and governance, and data fusion.
 
-## technical-standards
+**[engineering-and-space](engineering-and-space/)** (3 documents). NASA's Pioneer interplanetary spacecraft program, a geotechnical software theory manual, and the DoD engineering drawing standard.
 
-Engineering and government reference documents kept for their content as standards, currently the US Department of Defense standard practice for engineering drawings (MIL-STD-100G, 1997).
+**[emergency-and-disaster](emergency-and-disaster/)** (11 documents). Hurricane Katrina after-action reports, disaster communications, emergency call location technology, and the Reticulum mesh networking manual.
