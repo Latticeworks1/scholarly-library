@@ -1,15 +1,5 @@
 # Scholarly Library
 
-A general-purpose library of papers, books, journals, and reference documents. Each file name begins with the title of the work, followed by the author and the year, so a document can be identified from its name alone. Defense Intelligence Agency reference documents begin with the prefix DIRD. Files added before this convention begin with the year, the author, and the title. Each section has its own README with a short summary of every document in it.
+This library holds papers, books, journals, and reference documents gathered from many disciplines and kept in one place. It is arranged in five sections, [humanities](humanities/), [earth-and-planetary-science](earth-and-planetary-science/), [computing-and-ai](computing-and-ai/), [engineering-and-space](engineering-and-space/), and [emergency-and-disaster](emergency-and-disaster/), and each section has a README that summarizes every document in it.
 
-## Sections
-
-**[humanities](humanities/)** (10 documents). Medieval and early modern magic, occult and esoteric movements, Arabic astral magic, ancient Indian ideas of time, and philosophy.
-
-**[earth-and-planetary-science](earth-and-planetary-science/)** (24 documents). Meteorite impact and shock metamorphism, the geology and landforms of the Louisiana and Mississippi Gulf Coast, cone penetration testing, seismology, subsurface radar, early radio research, and historical aerial imagery.
-
-**[computing-and-ai](computing-and-ai/)** (10 documents). Software modularity, language model behavior and control, AI risk and governance, data fusion, WiFi-based sensing, and structured analytic techniques.
-
-**[engineering-and-space](engineering-and-space/)** (10 documents). NASA's Pioneer and Lunar Prospector missions, a geotechnical software theory manual, the DoD engineering drawing standard, and Defense Intelligence Agency reference documents on emerging technologies.
-
-**[emergency-and-disaster](emergency-and-disaster/)** (11 documents). Hurricane Katrina after-action reports, disaster communications, emergency call location technology, and the Reticulum mesh networking manual.
+A file name begins with the title of the work, followed by the author and the year, so that a document can be identified from its name alone. Defense Intelligence Agency reference documents begin with the prefix DIRD. Files added before this convention begin with the year, the author, and the title.
