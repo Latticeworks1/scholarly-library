@@ -25,3 +25,11 @@ Software design, language model behavior, and the governance of AI systems.
 ## Data fusion
 
 [A Common Operating Picture Framework Leveraging Data Fusion and Deep Learning](2020_Ortiz_A_Common_Operating_Picture_Framework_Leveraging_Data_Fusion_and_Deep_Learning.pdf) (2020), Benjamin Ortiz and colleagues, Accenture Federal Services. A platform that extracts information from separate data sources with deep learning, fuses it, and presents detected and geolocated events in one real-time picture with forensic review.
+
+## Sensing and perception
+
+[WiFi-JEPA: Self-supervised Learning for WiFi-CSI 3D Human Pose Estimation](WiFi-JEPA_Self-supervised_Learning_for_WiFi-CSI_3D_Human_Pose_Estimation_Kim_et_al_2026.pdf) (2026), Doeon Kim, Jungyoon Lee, Seongsin Kim, and Seong-heum Kim, arXiv:2607.11064. A self-supervised framework that predicts masked latent embeddings of WiFi channel state information rather than reconstructing raw signals. It is pretrained on simulated CSI generated from random geometric primitives and reports state-of-the-art 3D pose estimation on the Person-in-WiFi-3D benchmark.
+
+## Structured analysis
+
+[A Tradecraft Primer: Basic Structured Analytic Techniques](A_Tradecraft_Primer_Basic_Structured_Analytic_Techniques_DIA_Directorate_for_Analysis_2008.pdf) (2008), Directorate for Analysis, Defense Intelligence Agency, first edition, March 2008. A primer on basic structured analytic techniques for intelligence analysis, published under the Analytic Methodologies series.

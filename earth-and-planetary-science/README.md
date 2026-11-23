@@ -1,6 +1,6 @@
 # Earth and Planetary Science
 
-Meteorite impact and shock metamorphism, the Gulf Coast geology of Louisiana and Mississippi, geotechnical machine learning, and seismology.
+Meteorite impact and shock metamorphism, the Gulf Coast geology of Louisiana and Mississippi, geotechnical machine learning, seismology, subsurface radar, and historical imagery.
 
 ## Recognizing impact structures and shock metamorphism
 
@@ -47,3 +47,17 @@ Meteorite impact and shock metamorphism, the Gulf Coast geology of Louisiana and
 [Machine Learning-Based Synthetic CPT Prediction in Offshore Windfarms with Sparse Data](2023_Qu_Machine_Learning-Based_Synthetic_CPT_Prediction_in_Offshore_Windfarms_with_Sparse_Data.pdf) (2023), D. Qu, 4th EAGE Global Energy Transition Conference. Predicts cone penetration test profiles from geophysical data in a German North Sea windfarm; predictions are realistic outside glacial valleys but weaker inside them.
 
 [Buletini Mujor i Sizmologjise (Monthly Bulletin of Seismology), No. 9](2020_03_Buletini_Mujor_i_Sizmologjise_Monthly_Bulletin_of_Seismology_No_9_Polytechnic_University_of_Tirana.pdf) (March 2020), Polytechnic University of Tirana. In Albanian. A monthly catalog of earthquakes recorded, located, and analyzed by the Albanian seismological network, with station data, parameter quality analysis, and epicenter maps.
+
+[Effect of Target Properties and Impact Velocity on Ejection Dynamics and Ejecta Deposition](Effect_of_Target_Properties_and_Impact_Velocity_on_Ejection_Dynamics_and_Ejecta_Deposition_Luther_Zhu_Collins_Wunnemann_2018.pdf) (2018), Robert Luther, Meng-Hua Zhu, Gareth Collins, and Kai Wünnemann, Meteoritics & Planetary Science 53(8). A numerical parameter study of impacts that varies friction, porosity, cohesion and impact velocity. Target strength has the strongest effect on the distribution of ejecta, while the thickness of ejecta deposits as a function of distance is similar across porosities and for impact velocities above about 6 km/s.
+
+[The First MEMIN Shock Recovery Experiments at Low Shock Pressure (5-12.5 GPa) with Dry Porous Sandstone](The_First_MEMIN_Shock_Recovery_Experiments_at_Low_Shock_Pressure_5-12.5_GPa_with_Dry_Porous_Sandstone_Kowitz_et_al_2013.pdf) (2013), Astrid Kowitz, Ralf T. Schmitt, W. Uwe Reimold, and Ulrich Hornemann, Meteoritics & Planetary Science 48(1). Shock recovery experiments on porous Seeberger sandstone between 5 and 12.5 GPa. Planar deformation features and diaplectic quartz glass form at 10 GPa and above, and porosity controls the progression of shock effects.
+
+## Subsurface radar and early radio geophysics
+
+[SCORA: An Open-Source Coherent SFCW Radar Framework on Low-Cost SDRs for Subsurface Remote Sensing](SCORA_An_Open-Source_Coherent_SFCW_Radar_Framework_on_Low-Cost_SDRs_for_Subsurface_Remote_Sensing_Huang_et_al_2026.pdf) (2026), Hui Huang, Kiyoshi Nakamura, Yangjie Xu, Jin Zhang, and Radu State, IEEE Transactions on Geoscience and Remote Sensing 64. An open-source framework that turns a low-cost software-defined radio into a coherent stepped-frequency continuous-wave ground penetrating radar. Reference-channel compensation and latency characterization set the pulse repetition frequency, and the framework is validated in free-space ranging, sandbox landmine detection and a UAV survey.
+
+[The Early History of Very Low Frequency (VLF) Radio Research at Stanford](The_Early_History_of_Very_Low_Frequency_VLF_Radio_Research_at_Stanford_Carpenter_2014.pdf) (2014), Donald L. Carpenter. A history of VLF radio research at Stanford, covering its discoveries, instrumentation and analysis, and the field work that extended from Antarctica to Alaska.
+
+## Historical aerial imagery
+
+[Mount Ararat Aerial Photograph](Mount_Ararat_Aerial_Photograph_Unattributed_1949.pdf) (1949), unattributed. An oblique aerial photograph of Mount Ararat, with a stamp dated 17 June 1949. The image does not identify its author or originating agency.
