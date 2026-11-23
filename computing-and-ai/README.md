@@ -1,6 +1,6 @@
 # Computing and AI
 
-Software design, language model behavior, and the governance of AI systems.
+Software design, language model behavior, the governance of AI systems, data fusion, WiFi-based sensing, and structured analytic techniques.
 
 ## Software design
 
