@@ -1,6 +1,6 @@
 # Scholarly Library
 
-A general-purpose library of papers, books, journals, and reference documents. Every file name gives the year, the author, and the title, so a document can be recognised without opening it. Each section has its own README with a short summary of every document in it.
+A general-purpose library of papers, books, journals, and reference documents. Each file name begins with the title of the work, followed by the author and the year, so a document can be identified from its name alone. Defense Intelligence Agency reference documents begin with the prefix DIRD. Files added before this convention begin with the year, the author, and the title. Each section has its own README with a short summary of every document in it.
 
 ## Sections
 
