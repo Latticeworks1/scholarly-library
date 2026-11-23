@@ -1,0 +1,6 @@
+A_History_of_Magic_and_Experimental_Science_Volume_II_Twelfth_and_Thirteenth_Centuries_Thorndike_1923.pdf filter=lfs diff=lfs merge=lfs -text
+Oedipus_Aegyptiacus_Volume_I_Kircher_1652.pdf filter=lfs diff=lfs merge=lfs -text
+Three_Treatises_on_Natural_Philosophy_and_Medicine_British_Library_Add_MS_7527_Sakhiyus_al-Qass_and_Qusta_ibn_Luqa_1685.pdf filter=lfs diff=lfs merge=lfs -text
+Transcendental_Magic_Its_Doctrine_and_Ritual_Translated_by_Waite_Levi_1896.pdf filter=lfs diff=lfs merge=lfs -text
+Utriusque_Cosmi_Tomus_Secundus_Microcosmi_Historia_Fludd_1619.pdf filter=lfs diff=lfs merge=lfs -text
+Voynich_Manuscript_Beinecke_MS_408_Anonymous_1420.pdf filter=lfs diff=lfs merge=lfs -text
