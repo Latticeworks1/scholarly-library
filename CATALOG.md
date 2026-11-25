@@ -106,7 +106,7 @@ A short summary of each document, in the order of the file names.
 
 [Hawaiian Antiquities (Moolelo Hawaii)](Hawaiian_Antiquities_Moolelo_Hawaii_Malo_1903.pdf) (1903 edition of the 1898 translation), David Malo, translated by N. B. Emerson. An account of ancient Hawaiian society, religion, rank, prayer and the kapu system written in the 1830s by a Hawaiian scholar educated in the mission.
 
-[History of the Ojibway Nation](History_of_the_Ojibway_Nation_Warren_1885.pdf) (1885), William W. Warren, Collections of the Minnesota Historical Society vol. 5. A history of the Ojibway based on oral tradition, written by a bilingual member of the nation and published after his death.
+[History of the Ojibway Nation](History_of_the_Ojibway_Nation_Warren_1885.pdf) (1885), William W. Warren, Collections of the Minnesota Historical Society vol. 5. A history of the Ojibway based on tradition, written by William W. Warren and published by the Minnesota Historical Society in 1885.
 
 [Hurricane Katrina After Action Report, OR-2 DMAT at the New Orleans Airport](Hurricane_Katrina_After_Action_Report_New_Orleans_Airport_OR-2_DMAT_2005.pdf) (September 25, 2005). A 16-page report by the OR-2 disaster medical assistance team on its deployment to the New Orleans airport from August 31 to September 10, 2005, written by its team commander, deputy commander, and medical officer, with observations from other team members.
 
@@ -246,7 +246,7 @@ A short summary of each document, in the order of the file names.
 
 [The Outer Wheel of Time: Vajrayana Buddhist Cosmology in the Kalacakra Tantra](The_Outer_Wheel_of_Time_Vajrayana_Buddhist_Cosmology_in_the_Kalacakra_Tantra_Wisconsin_Dissertation_Newman_1987.pdf) (1987), John Ronald Newman, University of Wisconsin-Madison doctoral dissertation. A study of the cosmology of the Kalacakra tantra, the Vajrayana system that ties the structure of the outer world to the reckoning of time. Scan of the microfilm copy.
 
-[The People of the Polar North](The_People_of_the_Polar_North_Rasmussen_1908.pdf) (1908), Knud Rasmussen, edited by G. Herring. An account of the Inughuit of North Greenland, compiled by an author of Greenlandic and Danish descent from the stories and songs of the people.
+[The People of the Polar North](The_People_of_the_Polar_North_Rasmussen_1908.pdf) (1908), Knud Rasmussen, edited by G. Herring. A record of the Inughuit of North Greenland, with travel and village scenes, by the Greenlandic-Danish explorer Knud Rasmussen.
 
 [The Picatrix (Liber Rubeus Edition)](The_Picatrix_Liber_Rubeus_Edition_Translated_and_Annotated_Greer_Warnock_2010.pdf) (2010-11), translated and annotated by John Michael Greer and Christopher Warnock. A complete English translation of the Picatrix, the Latin name of the Arabic Ghayat al-hakim, a handbook of astral magic.
 
