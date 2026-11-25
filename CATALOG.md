@@ -12,6 +12,8 @@ A short summary of each document, in the order of the file names.
 
 [A History of Magic and Experimental Science, Volume II](A_History_of_Magic_and_Experimental_Science_Volume_II_Twelfth_and_Thirteenth_Centuries_Thorndike_1923.pdf) (1923), Lynn Thorndike, Columbia University Press. Volume II covers the twelfth and thirteenth centuries, from the early scholastics and Adelard of Bath to Petrus Hispanus and Albertus Magnus, treating each author's magic and natural science together. Volume I is not held; this is a later reprint.
 
+[A Narrative of the Captivity and Adventures of John Tanner](A_Narrative_of_the_Captivity_and_Adventures_of_John_Tanner_Tanner_1830.pdf) (1830), John Tanner, edited by Edwin James. A first-person account of thirty years of residence among the Indians of the interior, edited and transcribed by an Army surgeon.
+
 [A Response to Critical Evaluation of Studies Alleging Evidence for Technosignatures in the POSS1-E Photographic Plates by Watters et al. (2026)](A_Response_to_Critical_Evaluation_of_Studies_Alleging_Evidence_for_Technosignatures_in_the_POSS1-E_Photographic_Plates_by_Watters_et_al_2026_Villarroel_Streblyanska_Bruehl_Geier_2026.pdf) (2026), Beatriz Villarroel, Alina Streblyanska, Stephen Bruehl, and Stefan Geier, arXiv:2602.15171, MNRAS preprint. Answers the critique of the statistical analyses in Villarroel et al. (2025) and Bruehl and Villarroel (2025), arguing that it conflates object-level validation with ensemble-level statistical inference.
 
 [A Tradecraft Primer: Basic Structured Analytic Techniques](A_Tradecraft_Primer_Basic_Structured_Analytic_Techniques_DIA_Directorate_for_Analysis_2008.pdf) (2008), Directorate for Analysis, Defense Intelligence Agency, first edition, March 2008. A primer on basic structured analytic techniques for intelligence analysis, published under the Analytic Methodologies series.
@@ -23,6 +25,10 @@ A short summary of each document, in the order of the file names.
 [Al-Tabari on the Prayers to the Planets](Al-Tabari_on_the_Prayers_to_the_Planets_Pingree_1992.pdf) (1992), David Pingree, Bulletin d'etudes orientales 44, pp. 105-117. Examines the chapter of the Ghayat al-hakim (known in Latin as the Picatrix) that describes how the Sabians of Harran petitioned the planets and their spirits, and shows from a Latin translation that only a small part of it derives from al-Tabari, with the rest drawn mainly from other sources.
 
 [Al-'Usur al-Wusta, volume 29](Al-Usur_al-Wusta_Vol_29_Journal_of_Middle_East_Medievalists_2021.pdf) (2021), The Journal of Middle East Medievalists, a complete 392-page issue. Articles include Liana Saif's long preliminary study of the Pseudo-Aristotelian Hermetica (pp. 20-80), Ahmad Al-Jallad on a digraph in the Quranic consonantal text, David Durand-Guedy on a Saljuq Anatolian ribat and its woman patron, and review essays and book reviews on medieval Islamic history, art, and book culture.
+
+[Algic Researches, Volume I](Algic_Researches_Volume_I_Schoolcraft_1839.pdf) (1839), Henry Rowe Schoolcraft. First series, Indian tales and legends, collected from Ojibwe and other sources by a U.S. Indian agent at Sault Ste. Marie. The tales are retold in English prose, not given as texts.
+
+[Algic Researches, Volume II](Algic_Researches_Volume_II_Schoolcraft_1839.pdf) (1839), Henry Rowe Schoolcraft. Second volume of the first series of Indian tales and legends.
 
 [AML Report Card, 2023 Update](AML_Report_Card_Advanced_Mobile_Location_Deployment_in_30_Countries_EENA_2023.pdf) (2023). The third edition of the survey of Advanced Mobile Location, the handset-based technology that sends a caller's position to emergency services. For 30 countries it covers how messages are transmitted and how fast they arrive, roaming, text-to-112, and the effect on emergency services and citizens.
 
@@ -47,6 +53,10 @@ A short summary of each document, in the order of the file names.
 [Buletini Mujor i Sizmologjise (Monthly Bulletin of Seismology), No. 9](Buletini_Mujor_i_Sizmologjise_Monthly_Bulletin_of_Seismology_No_9_Polytechnic_University_of_Tirana_2020_03.pdf) (March 2020), Polytechnic University of Tirana. In Albanian. A monthly catalog of earthquakes recorded, located, and analyzed by the Albanian seismological network, with station data, parameter quality analysis, and epicenter maps.
 
 [Chippewa Customs](Chippewa_Customs_Densmore_1929.pdf) (1929), Frances Densmore, Smithsonian Institution Bureau of American Ethnology Bulletin 86. Describes Anishinaabe (Chippewa) life as recorded from Minnesota and Wisconsin informants, including instruction of children toward a happy and successful life, dream fasting, petitions for health and long life, and the Midewiwin.
+
+[Chippewa Music](Chippewa_Music_Densmore_1910.pdf) (1910), Frances Densmore, Smithsonian Institution Bureau of American Ethnology Bulletin 45. Transcriptions and analyses of Ojibwe songs with the singers' accounts of their meaning and occasion.
+
+[Chippewa Music II](Chippewa_Music_II_Densmore_1913.pdf) (1913), Frances Densmore, Smithsonian Institution Bureau of American Ethnology Bulletin 53. Second collection of songs, with translations and singers' notes.
 
 [Closing the Information Gap in Unidentified Anomalous Phenomena (UAP) Studies](Closing_the_Information_Gap_in_Unidentified_Anomalous_Phenomena_UAP_Studies_Stahlman_2024.pdf) (2024), Gretchen R. Stahlman, Florida State University. A scoping review of the scholarly UAP literature from 1967 to 2023 that finds library and information science unrepresented and describes what data curation and information behavior research could contribute.
 
@@ -106,6 +116,8 @@ A short summary of each document, in the order of the file names.
 
 [Hawaiian Antiquities (Moolelo Hawaii)](Hawaiian_Antiquities_Moolelo_Hawaii_Malo_1903.pdf) (1903 edition of the 1898 translation), David Malo, translated by N. B. Emerson. An account of ancient Hawaiian society, religion, rank, prayer and the kapu system written in the 1830s by a Hawaiian scholar educated in the mission.
 
+[History of the Ojebway Indians](History_of_the_Ojebway_Indians_Peter_Jones_1861.pdf) (1861), Peter Jones (Kahkewaquonaby). Account of Ojibwe customs, beliefs and conversion to Christianity by a Mississauga Ojibwe Methodist minister.
+
 [History of the Ojibway Nation](History_of_the_Ojibway_Nation_Warren_1885.pdf) (1885), William W. Warren, Collections of the Minnesota Historical Society vol. 5. A history of the Ojibway based on tradition, written by William W. Warren and published by the Minnesota Historical Society in 1885.
 
 [Hurricane Katrina After Action Report, OR-2 DMAT at the New Orleans Airport](Hurricane_Katrina_After_Action_Report_New_Orleans_Airport_OR-2_DMAT_2005.pdf) (September 25, 2005). A 16-page report by the OR-2 disaster medical assistance team on its deployment to the New Orleans airport from August 31 to September 10, 2005, written by its team commander, deputy commander, and medical officer, with observations from other team members.
@@ -117,6 +129,8 @@ A short summary of each document, in the order of the file names.
 [Implementation Strategies for Accessible Emergency Services](Implementation_Strategies_for_Accessible_Emergency_Services_EENA_2025.pdf) (July 8, 2025). Examines how Sweden, the Netherlands, and France use Total Conversation and other inclusive technologies to give deaf, deafblind, and hard-of-hearing people equal access to 112.
 
 [Information, Physics, Quantum: The Search for Links](Information_Physics_Quantum_The_Search_for_Links_Wheeler_1989.pdf) (1989), John Archibald Wheeler, Proc. 3rd Int. Symp. Foundations of Quantum Mechanics, Tokyo. Reviews what quantum physics and information theory say about why anything exists, concluding among other things that the world cannot be a giant machine ruled by a pre-established continuum law.
+
+[Kitchi-Gami: Wanderings Round Lake Superior](Kitchi-Gami_Wanderings_Round_Lake_Superior_Kohl_1860.pdf) (1860), Johann Georg Kohl. A German traveler's account of the Ojibwe of the Lake Superior country in 1855, covering daily life, ceremony and conversation.
 
 [Landforms of the Louisiana Coastal Plain](Landforms_of_the_Louisiana_Coastal_Plain_LGS_Maps_and_Atlas_Series_No_15_Snead_McCulloh_Heinrich_2019.pdf) (2019), John Snead, Richard McCulloh, and Paul Heinrich, Louisiana Geological Survey Maps and Atlas Series No. 15. The 40-page pamphlet accompanying a landform map of the Louisiana Coastal Plain.
 
@@ -159,6 +173,10 @@ A short summary of each document, in the order of the file names.
 [Numerical Simulations of Complex Crater Formation in Layered and Mixed Targets](Numerical_Simulations_of_Complex_Crater_Formation_in_Layered_and_Mixed_Targets_Western_PhD_Thesis_Hopkins_2019.pdf) (2019), Ryan Hopkins, PhD thesis, University of Western Ontario, supervised by Gordon R. Osinski. Describes modifications to the iSALE shock-physics code that let it simulate meteorite impacts into layered target sequences, and several applications of the improved strength model.
 
 [Oedipus Aegyptiacus, Volume I](Oedipus_Aegyptiacus_Volume_I_Kircher_1652.pdf) (1652), Athanasius Kircher. The first volume of Kircher's attempt to restore the universal hieroglyphic doctrine of the ancients, with many engraved plates. Google Books scan.
+
+[Ojibwa Texts, Part I](Ojibwa_Texts_Part_I_Jones_1917.pdf) (1917), William Jones, edited by Truman Michelson, Publications of the American Ethnological Society vol. 7. Narratives in Ojibwe with English translation collected by William Jones, beginning the series of myths and tales of Nanabozho.
+
+[Ojibwa Texts, Part II](Ojibwa_Texts_Part_II_Jones_1919.pdf) (1919), William Jones, edited by Truman Michelson, Publications of the American Ethnological Society vol. 7. Miscellaneous tales in Ojibwe with English translation, including accounts of prayer for long life, health and upright living and of Midewiwin teaching. Verb forms built on the stem for living, such as pimatisi, appear throughout, and in one tale the phrase for living well, minopimatisi.
 
 [On the Criteria to Be Used in Decomposing Systems into Modules](On_the_Criteria_to_Be_Used_in_Decomposing_Systems_into_Modules_CMU_Technical_Report_Parnas_1971.pdf) (1971), David Parnas, Carnegie Mellon University technical report. Dated August 1971 (CMU-CS-71-101). Argues that the benefit of modularization, in flexibility, comprehensibility, and shorter development time, depends on the criteria used to divide a system, and compares a conventional and an unconventional decomposition for each of two design problems, finding advantages in the unconventional one.
 
@@ -234,6 +252,10 @@ A short summary of each document, in the order of the file names.
 
 [The Life of a South African Tribe, Volume II: The Psychic Life](The_Life_of_a_South_African_Tribe_Volume_II_Psychic_Life_Junod_1913.pdf) (1913), Henri A. Junod. Second volume, on religion, ancestor worship, divination, magic and folklore, with Thonga texts.
 
+[The Midewiwin, or Grand Medicine Society, of the Ojibwa](The_Midewiwin_or_Grand_Medicine_Society_of_the_Ojibwa_Hoffman_1891.pdf) (1891), Walter James Hoffman, Bureau of Ethnology Seventh Annual Report. Description of the Midewiwin ceremony, its origin tradition, degrees and birch-bark records, from Ojibwe informants and observation.
+
+[The Myth of Hiawatha, and Other Oral Legends](The_Myth_of_Hiawatha_and_Other_Oral_Legends_Schoolcraft_1856.pdf) (1856), Henry Rowe Schoolcraft. Revised and enlarged Ojibwe legends, including the Nanabozho cycle that Longfellow drew on for Hiawatha.
+
 [The Native Tribes of Central Australia](The_Native_Tribes_of_Central_Australia_Spencer_and_Gillen_1899.pdf) (1899), Baldwin Spencer and Francis J. Gillen. Observations of the Arrernte and neighbouring peoples, including totemic ceremonies, kinship and initiation, by a biologist and a telegraph station master.
 
 [The New Age of Russia: Occult and Esoteric Dimensions](The_New_Age_of_Russia_Occult_and_Esoteric_Dimensions_Menzel_Hagemeister_Rosenthal_eds_2012.pdf) (2012), edited by Birgit Menzel, Michael Hagemeister, and Bernice Glatzer Rosenthal. Essays on occult and esoteric movements in Russia from their prerevolutionary roots, through the Soviet period (the occultist Barchenko and the secret police, Nicholas Roerich, Tsiolkovskii and the occult roots of Soviet space travel, cosmism), to the post-Soviet revival (Aleksandr Dugin, the Rodnoverie movement, shamanism, the Roerich movements).
@@ -261,6 +283,8 @@ A short summary of each document, in the order of the file names.
 [The Texts of Taoism, Part I: The Tao Te King and the Writings of Kwang-dze, Books I to XVII](The_Texts_of_Taoism_Part_I_Tao_Te_King_and_Writings_of_Kwang_Dze_Legge_1891.pdf) (1891), James Legge (translator), Sacred Books of the East vol. 39, Clarendon Press. English translation of the Tao Te King and of the first seventeen books of the Zhuangzi, which Legge romanizes as Kwang-dze, with an introduction. Book XVII, Khiu Shui or the Floods of Autumn, is included.
 
 [The Texts of Taoism, Part II: The Writings of Kwang-dze, Books XVIII to XXXIII](The_Texts_of_Taoism_Part_II_Writings_of_Kwang_Dze_Books_XVIII_to_XXXIII_Legge_1891.pdf) (1891), James Legge (translator), Sacred Books of the East vol. 40, Clarendon Press. Completes Legge's translation of the Zhuangzi with Books XVIII to XXXIII, and adds the Thai-Shang Tractate of Actions and its appendices.
+
+[The Traditional History and Characteristic Sketches of the Ojibway Nation](The_Traditional_History_and_Characteristic_Sketches_of_the_Ojibway_Nation_Copway_1851.pdf) (1851), George Copway (Kahgegagahbowh). A history of the Ojibwe written by a Methodist missionary of Ojibwe birth, addressed to a Euro-American readership.
 
 [The Ultraterrestrial Hypothesis: A Case for Scientific Openness to an "Interdimensional" Explanation for Unidentified Anomalous Phenomena](The_Ultraterrestrial_Hypothesis_A_Case_for_Scientific_Openness_to_an_Interdimensional_Explanation_for_Unidentified_Anomalous_Phenomena_Lomas_2023.pdf) (2023), Tim Lomas, manuscript. Distinguishes terrestrial and extraterrestrial explanations from a third, unconventional terrestrial class, the ultraterrestrial hypothesis, and argues for considering it in a spirit of epistemic humility.
 
