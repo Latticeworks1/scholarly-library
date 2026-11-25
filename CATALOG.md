@@ -46,6 +46,8 @@ A short summary of each document, in the order of the file names.
 
 [Buletini Mujor i Sizmologjise (Monthly Bulletin of Seismology), No. 9](Buletini_Mujor_i_Sizmologjise_Monthly_Bulletin_of_Seismology_No_9_Polytechnic_University_of_Tirana_2020_03.pdf) (March 2020), Polytechnic University of Tirana. In Albanian. A monthly catalog of earthquakes recorded, located, and analyzed by the Albanian seismological network, with station data, parameter quality analysis, and epicenter maps.
 
+[Chippewa Customs](Chippewa_Customs_Densmore_1929.pdf) (1929), Frances Densmore, Smithsonian Institution Bureau of American Ethnology Bulletin 86. Describes Anishinaabe (Chippewa) life as recorded from Minnesota and Wisconsin informants, including instruction of children toward a happy and successful life, dream fasting, petitions for health and long life, and the Midewiwin.
+
 [Closing the Information Gap in Unidentified Anomalous Phenomena (UAP) Studies](Closing_the_Information_Gap_in_Unidentified_Anomalous_Phenomena_UAP_Studies_Stahlman_2024.pdf) (2024), Gretchen R. Stahlman, Florida State University. A scoping review of the scholarly UAP literature from 1967 to 2023 that finds library and information science unrepresented and describes what data curation and information behavior research could contribute.
 
 [Contemplating Eternity: On Time, Death, and Timelessness in Ancient India](Contemplating_Eternity_On_Time_Death_and_Timelessness_in_Ancient_India_Harvard_Dissertation_Yanchevskaya_2019.pdf) (2019), Nataliya Yanchevskaya, Harvard doctoral dissertation. Follows concepts and myths of time from the Rgveda through the Upanisads, the epics, and the philosophical schools, arguing that even the earliest texts distinguish an eternal time from a transitory, profane one, and that time is treated as lord of the universe.
@@ -102,6 +104,10 @@ A short summary of each document, in the order of the file names.
 
 [Harnessing Mobile Technology for Flood Disaster Readiness and Response: A Comprehensive Review of Mobile Applications on the Google Play Store](Harnessing_Mobile_Technology_for_Flood_Disaster_Readiness_and_Response_A_Comprehensive_Review_of_Mobile_Applications_on_the_Google_Play_Store_Kangana_et_al_2025.pdf) (2025), Nuwani Kangana and colleagues, Urban Science 9(4). Identifies and evaluates 77 disaster-related apps on the Google Play Store and recommends improving functionality and accuracy, using crowdsourcing to enrich data, and building in long-term sustainability.
 
+[Hawaiian Antiquities (Moolelo Hawaii)](Hawaiian_Antiquities_Moolelo_Hawaii_Malo_1903.pdf) (1903 edition of the 1898 translation), David Malo, translated by N. B. Emerson. An account of ancient Hawaiian society, religion, rank, prayer and the kapu system written in the 1830s by a Hawaiian scholar educated in the mission.
+
+[History of the Ojibway Nation](History_of_the_Ojibway_Nation_Warren_1885.pdf) (1885), William W. Warren, Collections of the Minnesota Historical Society vol. 5. A history of the Ojibway based on oral tradition, written by a bilingual member of the nation and published after his death.
+
 [Hurricane Katrina After Action Report, OR-2 DMAT at the New Orleans Airport](Hurricane_Katrina_After_Action_Report_New_Orleans_Airport_OR-2_DMAT_2005.pdf) (September 25, 2005). A 16-page report by the OR-2 disaster medical assistance team on its deployment to the New Orleans airport from August 31 to September 10, 2005, written by its team commander, deputy commander, and medical officer, with observations from other team members.
 
 [Hurricane Katrina After Action Review](Hurricane_Katrina_After_Action_Review_CDC_2006.pdf) (February 1, 2006), Centers for Disease Control and Prevention, prepared for the director of its Coordinating Office for Terrorism Preparedness and Emergency Response. A 223-page review of the agency's Katrina response, organized as strengths, areas for improvement, and a corrective action plan. This is a FOIA release with redactions.
@@ -113,6 +119,8 @@ A short summary of each document, in the order of the file names.
 [Information, Physics, Quantum: The Search for Links](Information_Physics_Quantum_The_Search_for_Links_Wheeler_1989.pdf) (1989), John Archibald Wheeler, Proc. 3rd Int. Symp. Foundations of Quantum Mechanics, Tokyo. Reviews what quantum physics and information theory say about why anything exists, concluding among other things that the world cannot be a giant machine ruled by a pre-established continuum law.
 
 [Landforms of the Louisiana Coastal Plain](Landforms_of_the_Louisiana_Coastal_Plain_LGS_Maps_and_Atlas_Series_No_15_Snead_McCulloh_Heinrich_2019.pdf) (2019), John Snead, Richard McCulloh, and Paul Heinrich, Louisiana Geological Survey Maps and Atlas Series No. 15. The 40-page pamphlet accompanying a landform map of the Louisiana Coastal Plain.
+
+[League of the Ho-de-no-sau-nee, or Iroquois](League_of_the_Ho-de-no-sau-nee_or_Iroquois_Morgan_1851.pdf) (1851), Lewis Henry Morgan. An early systematic ethnography of the Seneca and the Haudenosaunee confederacy, written with the assistance of Ely S. Parker, covering government, religion, kinship and custom.
 
 [Li-Baker Chinese HFGW Detector: Perturbative Photon Fluxes Generated by High-Frequency Gravitational Waves and Their Physical Effects](Li-Baker_Chinese_HFGW_Detector_Perturbative_Photon_Fluxes_Generated_by_High-Frequency_Gravitational_Waves_and_Their_Physical_Effects_Li_Baker_Fang_Stephenson_Chen_2008.pdf) (2008), Fangyu Li, Robert M. L. Baker Jr., Zhenyun Fang, Gary V. Stephenson, and Zhenya Chen, The European Physical Journal C 56, 407-423. Describes the detector design and the perturbative photon fluxes that high-frequency gravitational waves would generate in it, with the referee correspondence preceding the paper.
 
@@ -186,15 +194,23 @@ A short summary of each document, in the order of the file names.
 
 [Shock Properties of One Unsaturated Clay and Its Equation of State Up to 30 GPa](Shock_Properties_of_One_Unsaturated_Clay_and_Its_Equation_of_State_Up_to_30_GPa_Crystals_Ran_Zou_Zhou_Tang_2022.pdf) (2022), Xianwen Ran, Xuan Zou, Jingyuan Zhou, and Wenhui Tang, Crystals 12, 119. Light-gas-gun Hugoniot measurements on remolded clay at 0, 8, and 15 percent moisture, from which a high-pressure equation of state valid to 30 GPa is built.
 
+[Specimens of Bushman Folklore](Specimens_of_Bushman_Folklore_Bleek_and_Lloyd_1911.pdf) (1911), W. H. I. Bleek and L. C. Lloyd, with an introduction by George McCall Theal. Narratives and accounts dictated in the /Xam language by San men imprisoned in Cape Town, with parallel text and translation.
+
+[Spiritual and Mental Concepts of the Maori](Spiritual_and_Mental_Concepts_of_the_Maori_Best_1922.pdf) (1922), Elsdon Best, Dominion Museum Monograph 2. Discusses the Maori terms wairua, mauri, manawa ora, hinengaro and toiora, and the belief that the things making for life and welfare derive from Io, as taught by tohunga. Best's account of Io is mediated by his own sources and interpretation.
+
 [MIL-STD-100G: Department of Defense Standard Practice for Engineering Drawings](Standard_Practice_for_Engineering_Drawings_MIL-STD-100G_DoD_1997.pdf) (June 9, 1997). The 84-page US Department of Defense standard for preparing engineering drawings, superseding MIL-STD-100F of September 1996.
 
 [Steering Vector Fields for Context-Aware Inference-Time Control in Large Language Models](Steering_Vector_Fields_for_Context-Aware_Inference-Time_Control_in_Large_Language_Models_Li_Li_Huang_2026.pdf) (2026), Jiaqian Li, Yanshu Li, and Kuan-Hao Huang, Brown University and Texas A&M University, arXiv:2602.01654. Takes a geometric view of why a static steering vector is unreliable, with unsteerable concepts, inputs on which steering backfires, and degradation in long-form and multi-attribute generation, and proposes steering vector fields that vary with context.
 
 [TeamPhone: Networking Smartphones for Disaster Recovery](TeamPhone_Networking_Smartphones_for_Disaster_Recovery_Lu_Cao_La_Porta_2017.pdf) (2017), Zongqing Lu, Guohong Cao, and Thomas La Porta, arXiv 1606.03417v2. A system that joins cellular, ad-hoc, and opportunistic networking into a messaging system for rescue workers, plus a self-rescue system that groups trapped survivors' phones and sends energy-efficient emergency messages with their locations; prototyped on Android.
 
+[The Ainu and Their Folk-Lore](The_Ainu_and_Their_Folk-Lore_Batchelor_1901.pdf) (1901), John Batchelor. An account of the Ainu of Hokkaido by a missionary resident among them, with myths, prayers, customs and ritual.
+
 [The Book of the Sacred Magic of Abra-Melin the Mage](The_Book_of_the_Sacred_Magic_of_Abra-Melin_the_Mage_Mathers_1898.pdf) (1898), translated by S. L. MacGregor Mathers. A ritual manual for contact with one's guardian angel and then command of spirits, with extensive magic squares. Scan without a text layer.
 
 [The Books of Enoch: A Complete Volume](The_Books_of_Enoch_A_Complete_Volume_Lumpkin_2010.pdf) (2010), Joseph B. Lumpkin. A one-volume popular English edition of 1 Enoch (Ethiopic), 2 Enoch (Slavonic), and 3 Enoch (Hebrew).
+
+[The Constitution of the Five Nations](The_Constitution_of_the_Five_Nations_Parker_1916.pdf) (1916), Arthur C. Parker, New York State Museum Bulletin 184. The Iroquois Book of the Great Law as recorded from Haudenosaunee sources, with Parker's account of Dekanawida and Hayonhwatha and the Good News of Peace and Power, the Tree of the Great Peace, and the principle that the nations be of one head, one body and one mind.
 
 [The Convincing Identification of Terrestrial Meteorite Impact Structures: What Works, What Doesn't, and Why](The_Convincing_Identification_of_Terrestrial_Meteorite_Impact_Structures_French_Koeberl_2010.pdf) (2010), Bevan French and Christian Koeberl, Earth-Science Reviews 98, pp. 123-170. A 48-page review of the diagnostic evidence for impact origin; only shock-metamorphic effects such as shatter cones and planar deformation features in quartz, and in some cases traces of the meteorite itself, are generally accepted as unambiguous.
 
@@ -214,17 +230,29 @@ A short summary of each document, in the order of the file names.
 
 [The Interplanetary Pioneers, Volume II: System Design and Development](The_Interplanetary_Pioneers_Volume_II_System_Design_and_Development_NASA_SP-279_Corliss_1972.pdf) (1972), William R. Corliss, NASA SP-279. The second of three volumes on Pioneers 6, 7, 8, and 9, the four spacecraft that were the first to orbit the Sun systematically at widely separated points in space; this volume covers how the Pioneer system was defined, designed, and developed. The other volumes are the summary (SP-278) and operations and scientific results (SP-280).
 
+[The Life of a South African Tribe, Volume I: The Social Life](The_Life_of_a_South_African_Tribe_Volume_I_Social_Life_Junod_1912.pdf) (1912), Henri A. Junod, Swiss Romande Mission. Ethnography of the Thonga (Tsonga) of Mozambique and the Transvaal, covering birth, initiation, marriage, kinship, government, hunting and war.
+
+[The Life of a South African Tribe, Volume II: The Psychic Life](The_Life_of_a_South_African_Tribe_Volume_II_Psychic_Life_Junod_1913.pdf) (1913), Henri A. Junod. Second volume, on religion, ancestor worship, divination, magic and folklore, with Thonga texts.
+
+[The Native Tribes of Central Australia](The_Native_Tribes_of_Central_Australia_Spencer_and_Gillen_1899.pdf) (1899), Baldwin Spencer and Francis J. Gillen. Observations of the Arrernte and neighbouring peoples, including totemic ceremonies, kinship and initiation, by a biologist and a telegraph station master.
+
 [The New Age of Russia: Occult and Esoteric Dimensions](The_New_Age_of_Russia_Occult_and_Esoteric_Dimensions_Menzel_Hagemeister_Rosenthal_eds_2012.pdf) (2012), edited by Birgit Menzel, Michael Hagemeister, and Bernice Glatzer Rosenthal. Essays on occult and esoteric movements in Russia from their prerevolutionary roots, through the Soviet period (the occultist Barchenko and the secret police, Nicholas Roerich, Tsiolkovskii and the occult roots of Soviet space travel, cosmism), to the post-Soviet revival (Aleksandr Dugin, the Rodnoverie movement, shamanism, the Roerich movements).
 
 [The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)](The_New_Science_of_Unidentified_Aerospace-Undersea_Phenomena_UAP_Knuth_et_al_2025.pdf) (2025), Kevin H. Knuth and 34 co-authors, arXiv:2502.06794 (v2, 195 pages), submitted to Progress in Aerospace Sciences. A review of the serious academic and private efforts to study UAP with the equivalent of multi-messenger astronomy, using diverse arrays of scientific instruments.
+
+[The Night Chant, a Navaho Ceremony](The_Night_Chant_a_Navaho_Ceremony_Matthews_1902.pdf) (1902), Washington Matthews, Memoirs of the American Museum of Natural History vol. 6, Hyde Southwestern Expedition. A nine-day Navajo healing ceremony with its songs and prayers in original and translation, including the repeated closing formula that it is finished in beauty and the invocation of beauty before, behind, above, below and all around.
 
 [The Nyaya Sutras of Gotama](The_Nyaya_Sutras_of_Gotama_Vidyabhusana_1913.pdf) (1913), Satis Chandra Vidyabhusana (translator), Sacred Books of the Hindus vol. 8, Panini Office, Allahabad. English translation of the Nyaya Sutras in five books, beginning with the sixteen categories. The scan's text layer is imperfect in places.
 
 [The Outer Wheel of Time: Vajrayana Buddhist Cosmology in the Kalacakra Tantra](The_Outer_Wheel_of_Time_Vajrayana_Buddhist_Cosmology_in_the_Kalacakra_Tantra_Wisconsin_Dissertation_Newman_1987.pdf) (1987), John Ronald Newman, University of Wisconsin-Madison doctoral dissertation. A study of the cosmology of the Kalacakra tantra, the Vajrayana system that ties the structure of the outer world to the reckoning of time. Scan of the microfilm copy.
 
+[The People of the Polar North](The_People_of_the_Polar_North_Rasmussen_1908.pdf) (1908), Knud Rasmussen, edited by G. Herring. An account of the Inughuit of North Greenland, compiled by an author of Greenlandic and Danish descent from the stories and songs of the people.
+
 [The Picatrix (Liber Rubeus Edition)](The_Picatrix_Liber_Rubeus_Edition_Translated_and_Annotated_Greer_Warnock_2010.pdf) (2010-11), translated and annotated by John Michael Greer and Christopher Warnock. A complete English translation of the Picatrix, the Latin name of the Arabic Ghayat al-hakim, a handbook of astral magic.
 
 [The Pliocene Citronelle Formation of the Gulf Coastal Plain](The_Pliocene_Citronelle_Formation_of_the_Gulf_Coastal_Plain_USGS_Professional_Paper_98-L_Matson_1916.pdf) (1916), George Charlton Matson, USGS Professional Paper 98-L. A study begun in 1910 to separate the older Lafayette and Grand Gulf formations into better stratigraphic units that could be correlated with fossil-dated formations, covering the later Tertiary deposits from western Florida west to the Sabine River.
+
+[The Religious System of the Amazulu](The_Religious_System_of_the_Amazulu_Callaway_1870.pdf) (1868 to 1870, Folk-Lore Society edition 1884), Henry Callaway. Zulu narratives of origins, ancestral spirits, divination and ritual recorded from Zulu informants with parallel Zulu and English texts.
 
 [The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based Observatories](The_Scientific_Investigation_of_Unidentified_Aerial_Phenomena_UAP_Using_Multimodal_Ground-Based_Observatories_Journal_of_Astronomical_Instrumentation_Watters_et_al_2023.pdf) (2023), Wesley A. Watters, Abraham Loeb, and colleagues of the Galileo Project, Journal of Astronomical Instrumentation 12(1), 2340006 (open access, 43 pages). Describes the Galileo Project's instrumentation and software design for a multimodal census of aerial phenomena.
 
