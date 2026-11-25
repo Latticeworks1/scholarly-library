@@ -116,6 +116,10 @@ A short summary of each document, in the order of the file names.
 
 [LLMs as Method Actors: A Model for Prompt Engineering and Architecture](LLMs_as_Method_Actors_A_Model_for_Prompt_Engineering_and_Architecture_Doyle_2024.pdf) (2024), Colin Doyle. Treats models as actors, prompts as scripts, and responses as performances, and shows on the Connections word puzzle that this framing improves GPT-4o over vanilla and chain-of-thought prompting.
 
+[Lun-Heng, Part I: Philosophical Essays](Lun-Heng_Part_I_Philosophical_Essays_Wang_Chong_Forke_1907.pdf) (1907), Wang Chong, translated and annotated by Alfred Forke, Seminar fuer Orientalische Sprachen, Berlin. First part of the first complete European translation of the Lunheng, the first-century critical treatise of Wang Chong.
+
+[Lun-Heng, Part II: Miscellaneous Essays](Lun-Heng_Part_II_Miscellaneous_Essays_Wang_Chong_Forke_1911.pdf) (1911), Wang Chong, translated and annotated by Alfred Forke. Second part of the translation, in the 1962 Paragon reprint of the 1911 second edition.
+
 [Lunar Prospector Ground System Software: User's Guide and Programmer's Guide](Lunar_Prospector_Ground_System_Software_Users_and_Programmers_Guide_Lockheed_Martin_1998.pdf) (1998), Lockheed Martin Missiles and Space, document LMMS/P458-3022D, prepared under NASA contract NAS2-14256. The user and programmer guide for the ground software used to command the Lunar Prospector mission.
 
 [Machine Learning-Based Synthetic CPT Prediction in Offshore Windfarms with Sparse Data](Machine_Learning-Based_Synthetic_CPT_Prediction_in_Offshore_Windfarms_with_Sparse_Data_Qu_2023.pdf) (2023), D. Qu, 4th EAGE Global Energy Transition Conference. Predicts cone penetration test profiles from geophysical data in a German North Sea windfarm; predictions are realistic outside glacial valleys but weaker inside them.
@@ -210,6 +214,8 @@ A short summary of each document, in the order of the file names.
 
 [The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)](The_New_Science_of_Unidentified_Aerospace-Undersea_Phenomena_UAP_Knuth_et_al_2025.pdf) (2025), Kevin H. Knuth and 34 co-authors, arXiv:2502.06794 (v2, 195 pages), submitted to Progress in Aerospace Sciences. A review of the serious academic and private efforts to study UAP with the equivalent of multi-messenger astronomy, using diverse arrays of scientific instruments.
 
+[The Nyaya Sutras of Gotama](The_Nyaya_Sutras_of_Gotama_Vidyabhusana_1913.pdf) (1913), Satis Chandra Vidyabhusana (translator), Sacred Books of the Hindus vol. 8, Panini Office, Allahabad. English translation of the Nyaya Sutras in five books, beginning with the sixteen categories. The scan's text layer is imperfect in places.
+
 [The Outer Wheel of Time: Vajrayana Buddhist Cosmology in the Kalacakra Tantra](The_Outer_Wheel_of_Time_Vajrayana_Buddhist_Cosmology_in_the_Kalacakra_Tantra_Wisconsin_Dissertation_Newman_1987.pdf) (1987), John Ronald Newman, University of Wisconsin-Madison doctoral dissertation. A study of the cosmology of the Kalacakra tantra, the Vajrayana system that ties the structure of the outer world to the reckoning of time. Scan of the microfilm copy.
 
 [The Picatrix (Liber Rubeus Edition)](The_Picatrix_Liber_Rubeus_Edition_Translated_and_Annotated_Greer_Warnock_2010.pdf) (2010-11), translated and annotated by John Michael Greer and Christopher Warnock. A complete English translation of the Picatrix, the Latin name of the Arabic Ghayat al-hakim, a handbook of astral magic.
@@ -220,11 +226,17 @@ A short summary of each document, in the order of the file names.
 
 [The Testament of Solomon](The_Testament_of_Solomon_Jewish_Quarterly_Review_Conybeare_1898.pdf) (1898), F. C. Conybeare, Jewish Quarterly Review 11, pp. 1-45. An English translation of the Testament of Solomon, in which Solomon uses a ring to bind demons and set them to work on the Temple.
 
+[The Texts of Taoism, Part I: The Tao Te King and the Writings of Kwang-dze, Books I to XVII](The_Texts_of_Taoism_Part_I_Tao_Te_King_and_Writings_of_Kwang_Dze_Legge_1891.pdf) (1891), James Legge (translator), Sacred Books of the East vol. 39, Clarendon Press. English translation of the Tao Te King and of the first seventeen books of the Zhuangzi, which Legge romanizes as Kwang-dze, with an introduction. Book XVII, Khiu Shui or the Floods of Autumn, is included.
+
+[The Texts of Taoism, Part II: The Writings of Kwang-dze, Books XVIII to XXXIII](The_Texts_of_Taoism_Part_II_Writings_of_Kwang_Dze_Books_XVIII_to_XXXIII_Legge_1891.pdf) (1891), James Legge (translator), Sacred Books of the East vol. 40, Clarendon Press. Completes Legge's translation of the Zhuangzi with Books XVIII to XXXIII, and adds the Thai-Shang Tractate of Actions and its appendices.
+
 [The Ultraterrestrial Hypothesis: A Case for Scientific Openness to an "Interdimensional" Explanation for Unidentified Anomalous Phenomena](The_Ultraterrestrial_Hypothesis_A_Case_for_Scientific_Openness_to_an_Interdimensional_Explanation_for_Unidentified_Anomalous_Phenomena_Lomas_2023.pdf) (2023), Tim Lomas, manuscript. Distinguishes terrestrial and extraterrestrial explanations from a third, unconventional terrestrial class, the ultraterrestrial hypothesis, and argues for considering it in a spirit of epistemic humility.
 
 [The Universe as a Cyclic Organized Information System: John Wheeler's World Revisited](The_Universe_as_a_Cyclic_Organized_Information_System_John_Wheelers_World_Revisited_Meijer_2015.pdf) (2015), Dirk K. F. Meijer, NeuroQuantology 13(1), pp. 57-78. An essay on Wheeler's participatory universe, in which reality grows out of observation and consciousness, information is its most fundamental building block, and the universe is a self-excited circuit developing through a closed-loop cycle.
 
 [The Unreality of Time](The_Unreality_of_Time_Mind_McTaggart_1908.pdf) (1908), J. Ellis McTaggart, Mind 17(68), pp. 457-474. The argument that time is unreal because the series of past, present, and future that change requires is contradictory, and the series of earlier and later cannot exist without it.
+
+[The Yoga-System of Patanjali](The_Yoga-System_of_Patanjali_Woods_1914.pdf) (1914), James Haughton Woods (translator), Harvard Oriental Series vol. 17, Harvard University Press. Translation of the Yoga Sutras of Patanjali together with the Yoga-Bhashya ascribed to Vyasa and the Tattva-Vaicaradi of Vacaspati Misra, with an introduction on the date and style of the commentaries and an index of quotations.
 
 [Three-Dimensional Reconstruction of Planar Deformation Features from Single Electron Micrographs](Three-Dimensional_Reconstruction_of_Planar_Deformation_Features_from_Single_Electron_Micrographs_Leon-Cazares_Kienl_Rae_2020.pdf) (2020), F. D. Leon-Cazares, C. Kienl, and C. M. F. Rae, Metallurgical and Materials Transactions A 51. A materials-science method for reconstructing dislocations in three dimensions from one micrograph, demonstrated in a nickel-based superalloy. Its planar deformation features are crystal defects in metal, not the impact features in quartz.
 
