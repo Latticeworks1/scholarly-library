@@ -312,11 +312,7 @@ A short summary of each document, in the order of the file names.
 
 [Thrice-Greatest Hermes, Volume I: Prolegomena](Thrice-Greatest_Hermes_Volume_I_Prolegomena_Mead_1906.pdf) (1906), G. R. S. Mead. The introductory volume of Mead's translation of the Trismegistic literature. Reduced-size copy of a 203MB original.
 
-[Thrice-Greatest Hermes, Volume I: Prolegomena](Thrice-Greatest_Hermes_Volume_I_Prolegomena_Mead_1906.pdf) (1906), G. R. S. Mead. Introductory studies of the Hermetic literature and its setting in Hellenistic theosophy and gnosis.
-
 [Thrice-Greatest Hermes, Volume II: Sermons](Thrice-Greatest_Hermes_Volume_II_Sermons_Mead_1906.pdf) (1906), G. R. S. Mead. The translated sermons of the Trismegistic literature.
-
-[Thrice-Greatest Hermes, Volume II: Sermons](Thrice-Greatest_Hermes_Volume_II_Sermons_Mead_1906.pdf) (1906), G. R. S. Mead. Translation of the extant Hermetic sermons, including Poemandres, with commentary.
 
 [Thrice-Greatest Hermes, Volume III: Excerpts and Fragments](Thrice-Greatest_Hermes_Volume_III_Excerpts_and_Fragments_Mead_1906.pdf) (1906), G. R. S. Mead. Excerpts preserved by Stobaeus and fragments and references from the church fathers and other writers.
 
