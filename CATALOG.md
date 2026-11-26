@@ -10,6 +10,8 @@ A short summary of each document, in the order of the file names.
 
 [A Common Operating Picture Framework Leveraging Data Fusion and Deep Learning](A_Common_Operating_Picture_Framework_Leveraging_Data_Fusion_and_Deep_Learning_Ortiz_2020.pdf) (2020), Benjamin Ortiz and colleagues, Accenture Federal Services. A platform that extracts information from separate data sources with deep learning, fuses it, and presents detected and geolocated events in one real-time picture with forensic review.
 
+[A First Year in Canterbury Settlement, with Other Early Essays](A_First_Year_in_Canterbury_Settlement_with_Darwin_among_the_Machines_Butler_1914.pdf) (1914), Samuel Butler. Early writings that include the 1863 letter Darwin among the Machines.
+
 [A History of Magic and Experimental Science, Volume II](A_History_of_Magic_and_Experimental_Science_Volume_II_Twelfth_and_Thirteenth_Centuries_Thorndike_1923.pdf) (1923), Lynn Thorndike, Columbia University Press. Volume II covers the twelfth and thirteenth centuries, from the early scholastics and Adelard of Bath to Petrus Hispanus and Albertus Magnus, treating each author's magic and natural science together. Volume I is not held; this is a later reprint.
 
 [A Narrative of the Captivity and Adventures of John Tanner](A_Narrative_of_the_Captivity_and_Adventures_of_John_Tanner_Tanner_1830.pdf) (1830), John Tanner, edited by Edwin James. A first-person account of thirty years of residence among the Indians of the interior, edited and transcribed by an Army surgeon.
@@ -39,6 +41,8 @@ A short summary of each document, in the order of the file names.
 [An Enquiry Concerning Human Understanding, and Selections from A Treatise of Human Nature](An_Enquiry_Concerning_Human_Understanding_and_Selections_from_A_Treatise_of_Human_Nature_Hume_1907.pdf) (1907 edition; Enquiry first published 1748), David Hume, Open Court edition (the Cornell University Library copy). The Enquiry includes the section Of Miracles, which argues that testimony for a miracle must be weighed against the uniform experience that the miracle contradicts.
 
 [An Environmental Analysis of Public UAP Sightings and Sky View Potential](An_Environmental_Analysis_of_Public_UAP_Sightings_and_Sky_View_Potential_Medina_Brewer_Kirkpatrick_2023.pdf) (2023), R. M. Medina, S. C. Brewer, and S. M. Kirkpatrick, Scientific Reports. A Bayesian regression of more than 98,000 publicly reported sightings in the conterminous United States from 2001 to 2020 against light pollution, tree canopy, cloud cover, aircraft, and military installations, finding that more sightings are reported where more of the sky is visible.
+
+[An Introduction to Cybernetics](An_Introduction_to_Cybernetics_Ashby_1956.pdf) (1956, electronic edition 1999), W. Ross Ashby, Chapman and Hall. A textbook of cybernetics built from transformations and machines, through variety and the law of requisite variety, to regulation and control. Copyright of the Estate of W. Ross Ashby, which permits non-profit reproduction and distribution for educational and research purposes with its copyright statement included.
 
 [Analytical Limits and Inferential Overreach in the Spatial Modeling of UAP Sighting Reports: A Critique of Medina, Brewer & Kirkpatrick (2023)](Analytical_Limits_and_Inferential_Overreach_in_the_Spatial_Modeling_of_UAP_Sighting_Reports_A_Critique_of_Medina_Brewer_and_Kirkpatrick_2023_SCU_Research_Working_Group_2026.pdf) (2026), SCU Research Working Group, Scientific Coalition for UAP Studies, March 2026. Argues from the published quantities that the 100 percent posterior credibility and 99 percent hotspot claims are not supportable, citing overdispersion, uncorrected multiple testing across 3,109 counties, and temporally mismatched covariates.
 
@@ -95,6 +99,8 @@ A short summary of each document, in the order of the file names.
 [Effects of Loading Path on the Shock Metamorphism of Porous Quartz: An Experimental Study](Effects_of_Loading_Path_on_the_Shock_Metamorphism_of_Porous_Quartz_An_Experimental_Study_UCL_PhD_Thesis_Bowden_2002.pdf) (2002), Katharine Emma Bowden, PhD thesis, Department of Geological Sciences, University College London. This file is the 24-page ProQuest preview of the thesis, not the full text.
 
 [Emergency Communications over LTE and IMS: Unresolved Issues and Risks](Emergency_Communications_over_LTE_and_IMS_Unresolved_Issues_and_Risks_EENA_2026.pdf) (February 2, 2026). Emergency calls over LTE and IP-based systems suffer from failed roaming, missing caller identification, and blocked callbacks, largely because testing across networks, devices, and emergency call centers is incomplete.
+
+[Erewhon, or Over the Range](Erewhon_or_Over_the_Range_Butler_1872.pdf) (1872), Samuel Butler. A utopian satire that includes the Book of the Machines, an argument that machines may evolve and come to dominate their makers.
 
 [Evidence of a 12,800-year-old Shallow Airburst Depression in Louisiana with Large Deposits of Shocked Quartz and Melted Materials](Evidence_of_a_12800-year-old_Shallow_Airburst_Depression_in_Louisiana_with_Large_Deposits_of_Shocked_Quartz_and_Melted_Materials_ACI_Fitzenreiter_et_al_2025.pdf) (2025), Robert Fitzenreiter, Kord Ernstson, Gunther Kletetschka, Malcolm A. LeCompte, Allen West, and colleagues, Airbursts and Cratering Impacts 3, e20250004. Reports shocked quartz, spherules, meltglass, and microbreccia in deposits near Perkins, Louisiana, dated by radiocarbon and 40Ar/39Ar around 12,800 years BP, and interprets them as a low-altitude airburst coinciding with the Younger Dryas boundary.
 
@@ -178,7 +184,11 @@ A short summary of each document, in the order of the file names.
 
 [Ojibwa Texts, Part II](Ojibwa_Texts_Part_II_Jones_1919.pdf) (1919), William Jones, edited by Truman Michelson, Publications of the American Ethnological Society vol. 7. Miscellaneous tales in Ojibwe with English translation, including accounts of prayer for long life, health and upright living and of Midewiwin teaching. Verb forms built on the stem for living, such as pimatisi, appear throughout, and in one tale the phrase for living well, minopimatisi.
 
+[On Governors](On_Governors_Maxwell_1868.pdf) (1868), J. Clerk Maxwell, Proceedings of the Royal Society of London. An early mathematical analysis of the stability of feedback regulators.
+
 [On the Criteria to Be Used in Decomposing Systems into Modules](On_the_Criteria_to_Be_Used_in_Decomposing_Systems_into_Modules_CMU_Technical_Report_Parnas_1971.pdf) (1971), David Parnas, Carnegie Mellon University technical report. Dated August 1971 (CMU-CS-71-101). Argues that the benefit of modularization, in flexibility, comprehensibility, and shorter development time, depends on the criteria used to divide a system, and compares a conventional and an unconventional decomposition for each of two design problems, finding advantages in the unconventional one.
+
+[Pistis Sophia: A Gnostic Miscellany](Pistis_Sophia_a_Gnostic_Miscellany_Mead_1921.pdf) (1921), G. R. S. Mead (translator). The Coptic Gnostic texts of the Askew Codex rendered into English with an introduction, in the revised edition.
 
 [Leveraging Strategic Foresight to Mitigate Artificial Intelligence Risk in Public Sectors](Policy_Brief_174_Leveraging_Strategic_Foresight_to_Mitigate_AI_Risk_in_Public_Sectors_UN_DESA_2025.pdf) (2025), UN Department of Economic and Social Affairs, Policy Brief No. 174. Argues that strategic foresight and scenario planning can help governments anticipate the consequences of AI as they pursue the Sustainable Development Goals.
 
@@ -246,6 +256,8 @@ A short summary of each document, in the order of the file names.
 
 [The Greater Key of Solomon](The_Greater_Key_of_Solomon_Mathers_1914.pdf) (1914 edition), translated by S. Liddell MacGregor Mathers. The Key of Solomon from manuscripts in the British Museum, with plates of seals, charms, and talismans.
 
+[The Hymn of the Soul](The_Hymn_of_the_Soul_Bevan_1897.pdf) (1897), A. A. Bevan, Texts and Studies, Cambridge University Press. The Syriac text and English translation of the hymn, also called the Hymn of the Pearl, contained in the Acts of Thomas.
+
 [The Interplanetary Pioneers, Volume II: System Design and Development](The_Interplanetary_Pioneers_Volume_II_System_Design_and_Development_NASA_SP-279_Corliss_1972.pdf) (1972), William R. Corliss, NASA SP-279. The second of three volumes on Pioneers 6, 7, 8, and 9, the four spacecraft that were the first to orbit the Sun systematically at widely separated points in space; this volume covers how the Pioneer system was defined, designed, and developed. The other volumes are the summary (SP-278) and operations and scientific results (SP-280).
 
 [The Life of a South African Tribe, Volume I: The Social Life](The_Life_of_a_South_African_Tribe_Volume_I_Social_Life_Junod_1912.pdf) (1912), Henri A. Junod, Swiss Romande Mission. Ethnography of the Thonga (Tsonga) of Mozambique and the Transvaal, covering birth, initiation, marriage, kinship, government, hunting and war.
@@ -300,7 +312,13 @@ A short summary of each document, in the order of the file names.
 
 [Thrice-Greatest Hermes, Volume I: Prolegomena](Thrice-Greatest_Hermes_Volume_I_Prolegomena_Mead_1906.pdf) (1906), G. R. S. Mead. The introductory volume of Mead's translation of the Trismegistic literature. Reduced-size copy of a 203MB original.
 
+[Thrice-Greatest Hermes, Volume I: Prolegomena](Thrice-Greatest_Hermes_Volume_I_Prolegomena_Mead_1906.pdf) (1906), G. R. S. Mead. Introductory studies of the Hermetic literature and its setting in Hellenistic theosophy and gnosis.
+
 [Thrice-Greatest Hermes, Volume II: Sermons](Thrice-Greatest_Hermes_Volume_II_Sermons_Mead_1906.pdf) (1906), G. R. S. Mead. The translated sermons of the Trismegistic literature.
+
+[Thrice-Greatest Hermes, Volume II: Sermons](Thrice-Greatest_Hermes_Volume_II_Sermons_Mead_1906.pdf) (1906), G. R. S. Mead. Translation of the extant Hermetic sermons, including Poemandres, with commentary.
+
+[Thrice-Greatest Hermes, Volume III: Excerpts and Fragments](Thrice-Greatest_Hermes_Volume_III_Excerpts_and_Fragments_Mead_1906.pdf) (1906), G. R. S. Mead. Excerpts preserved by Stobaeus and fragments and references from the church fathers and other writers.
 
 [Towards Understanding Steering Strength](Towards_Understanding_Steering_Strength_Taimeskhanov_Vaiter_Garreau_2026.pdf) (2026), Magamed Taimeskhanov, Samuel Vaiter, and Damien Garreau, arXiv:2602.02712. A theoretical analysis of how the magnitude of a steering intervention affects next-token probability, the presence of a concept, and cross-entropy.
 
